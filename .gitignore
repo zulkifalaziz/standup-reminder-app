@@ -1,0 +1,18 @@
+# PyInstaller build output
+build/
+dist/
+
+# PyInstaller spec (auto-generated — keep StandUpReminder.spec if you want to rebuild)
+# *.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# App runtime config (user-specific, generated on first launch)
+# %APPDATA%\StandUpReminder\ is outside this repo, nothing to ignore here
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
